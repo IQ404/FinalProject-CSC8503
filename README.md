@@ -4,4 +4,4 @@ This is the final project I did for the course *CSC8503: Advanced Game Technolog
 
 It currently looks like [this](AboutTheProject.pdf).
 
-<ins>NOTE</ins>: I am planning to seriously polish it in the near future.
+<ins>NOTE</ins>: I am planning to seriously polish this project in the near future.
