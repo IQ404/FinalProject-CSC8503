@@ -5,3 +5,7 @@ This is the final project I did for the course *CSC8503: Advanced Game Technolog
 It currently looks like [this](AboutTheProject.pdf).
 
 <ins>NOTE</ins>: I am planning to seriously polish this project in the near future.
+
+---
+
+Update on 26th-Jan-2023: A more realistic (smooth) path finding.
