@@ -8,6 +8,6 @@ It currently looks like [this](AboutTheProject.pdf).
 
 ---
 
-Update on 26th-Jan-2023: A more realistic (smooth) path finding.
+**Update** on 26th-Jan-2023: A more realistic (smooth) path finding.
 
 ![](https://github.com/IQ404/FinalProject-CSC8503/blob/main/update%20on%20path%20finding%202023-01-26%20200001.jpg)
