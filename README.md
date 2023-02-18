@@ -11,3 +11,9 @@ It currently looks like [this](AboutTheProject.pdf).
 **Update** on 26th-Jan-2023: A more realistic (smooth) path finding.
 
 ![](https://github.com/IQ404/FinalProject-CSC8503/blob/main/update%20on%20path%20finding%202023-01-26%20200001.jpg)
+
+---
+
+Within this project's framework, I implemented a way to texture ink on 3D rectangle where the ink can across faces, with splitting effect achieved by applying perlin noise:
+
+![](https://github.com/IQ404/FinalProject-CSC8503/blob/main/CrossFacesInkingWithSplittingEffect_XiaoyangLiu.jpg)
