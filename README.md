@@ -14,6 +14,6 @@ It currently looks like [this](AboutTheProject.pdf).
 
 ---
 
-Within this project's framework, I implemented a way to paint ink on 3D rectangle where the ink can across faces, with splitting effect achieved by applying perlin noise:
+**Update** on February 2023: Within this project's framework, I implemented a way to paint ink on 3D rectangle where the ink can across faces, with splitting effect achieved by applying perlin noise:
 
 ![](https://github.com/IQ404/FinalProject-CSC8503/blob/main/CrossFacesInkingWithSplittingEffect_XiaoyangLiu.jpg)
